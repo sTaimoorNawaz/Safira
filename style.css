@@ -1,0 +1,122 @@
+.bg-nav-color{
+    background-color: rgba(228, 228, 228, 0.466) !important;
+}
+
+.hover-link:hover{
+    color: red !important;
+    text-decoration: underline;
+    text-decoration-color: red;
+    text-underline-offset: 8px;
+}
+
+.hover-btn:hover{
+    background-color: rgba(0, 0, 0, 0.892) !important;
+}
+
+.cus-pad{
+    padding-top: 150px;
+}
+
+.fnt{
+    font-size: 60px;
+}
+
+.fnt-hed{
+    font-size: 40px;
+}
+.card-hover:hover
+{
+    opacity: 0.7;
+   transition: .5s;
+}
+
+.hov-card:hover{
+    border: 1px solid red;
+}
+.hover-link:hover{
+    color: red;
+}
+
+.listtype{
+    list-style-type: none;
+}
+
+.cus-col{
+    color: red; 
+    margin-top: -12px !important;
+    font-weight: 900 !important;
+}
+
+.back{
+    background-image: url("https://m2.alothemes.com/safira/media/wysiwyg/alothemes/demo3/bg_block.jpg");
+    height: 70vh;
+    background-repeat: no-repeat;
+    /* background-size: 100vw 70vh; */
+}
+
+.cus-white{
+    background-color: white !important;
+}
+
+.cus-white:hover{
+    background-color: red !important;
+}
+
+/* .cus-mar{
+    margin-right: 120px;
+}
+.cus-mar2{
+    margin-right: 260px;
+} */
+
+.bg-lightgray{
+    background-color: rgba(237, 237, 237, 0.701);
+}
+
+.bg-darkergray{
+    background-color: lightgray;
+}
+
+.cus-round1{
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+.cus-round2{
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    background-color: gray;
+    color: white;
+    font-weight: bolder;
+}
+
+.cus-round2:hover{
+    background-color: red;
+}
+
+.hovr-btn:hover{
+    color: red !important;
+}
+
+.cus-font{
+    font-size: 50px;
+}
+
+.curser{
+    cursor: pointer;
+}
+
+.bg-back{
+    background-image: url("Images/img.jpg");
+    background-repeat: no-repeat;
+    height: 30vh;
+    background-size: cover;
+}
+
+.fix-color{
+    color: red !important;
+}
+
+.bg-cust{
+    background-color: red;
+}
